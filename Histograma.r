@@ -1,5 +1,5 @@
 # buen codigo :v
-
+#aqui estuvo julio :v
 # Lectura de datos
 elect=c(
  589,493,531,355,469,432,415,468,617,426,
