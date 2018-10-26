@@ -1,3 +1,4 @@
+# buen codigo :v
 
 # Lectura de datos
 elect=c(
